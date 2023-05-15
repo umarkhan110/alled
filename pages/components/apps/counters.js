@@ -5,7 +5,7 @@ import CountUp from 'react-countup';
 import Countdown from 'react-countdown';
 import Timer from 'react-timer-wrapper';
 import Timecode from 'react-timecode';
-import Seo from '../../../shared/layout-components/seo/seo';
+import Seo from '@shared/layout-components/seo/seo';
 
 const Counters = () => {
 
@@ -245,5 +245,5 @@ const rendering = ({ days, hours, minutes, seconds, completed }) => {
 
   );
 };
-Counters.layout = "Contentlayout";
+// Counters.layout = "Contentlayout";
 export default Counters;

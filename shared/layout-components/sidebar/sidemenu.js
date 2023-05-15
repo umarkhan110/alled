@@ -17,7 +17,7 @@ export const MENUITEMS = [
                     { path: `/components/apps/chat`, type: 'link', active: false, selected: false, title: 'Chat' },
                     { path: `/components/apps/charts`, type: 'link', active: false, selected: false, title: 'Charts' },
                     { path: `/components/apps/content-scrollbar`, type: 'link', active: false, selected: false, title: 'Content-Scrollbar' },
-                    { path: `/components/apps/counters`, type: 'link', active: false, selected: false, title: 'Counters' },
+                   // { path: `/components/apps/counters`, type: 'link', active: false, selected: false, title: 'Counters' },
                     { path: `/components/apps/crypto-currencies`, type: 'link', active: false, selected: false, title: 'Crypto-Currencies' },
                     { path: `/components/apps/default-calender`, type: 'link', active: false, selected: false, title: 'Default-Calender' },
                     { path: `/components/apps/footers`, type: 'link', active: false, selected: false, title: 'Footers' },

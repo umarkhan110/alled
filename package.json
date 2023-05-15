@@ -46,6 +46,7 @@
     "formik": "^2.2.9",
     "immutable": "^4.3.0",
     "leaflet": "^1.9.3",
+    "nanoid": "^4.0.2",
     "next": "13.2.4",
     "postcss": "^8.4.21",
     "react": "18.2.0",
